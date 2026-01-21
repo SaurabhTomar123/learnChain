@@ -18,7 +18,7 @@ export default function Home() {
         </div>
         <div>
           <h2 className="text-xl mb-4">Live Feed</h2>
-          {/* We will create PostList next */}
+        
           <PostList />
         </div>
       </section>
